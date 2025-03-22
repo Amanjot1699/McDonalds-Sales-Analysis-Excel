@@ -1,24 +1,26 @@
-This project showcases a Sales & Performance Dashboard for McDonald's, created using Excel Power Query and Pivot Tables. The dashboard provides key insights into sales trends, popular menu items, order volumes, and revenue distribution, allowing for data-driven decision-making.
+# McDonald's Sales Analysis | Excel Dashboard
 
-Project Objectives
+## Project Description
+McDonald's, a leading fast-food chain, generates extensive sales data daily. This project focuses on cleaning, transforming, and visualizing sales data using Excel to derive meaningful insights. The goal is to understand revenue trends, customer preferences, and peak sales periods to enhance decision-making and operational efficiency.
 
-Analyze total sales and revenue distribution across categories.
-Identify top-selling items and order patterns by time of day.
-Compare weekday and weekend sales for strategic insights.
+## Objectives
+- Analyze total sales revenue across different menu categories.
+- Identify top-selling items and order patterns.
+- Examine sales variations across weekdays, weekends, and different times of the day.
+- Compare category-wise performance over different months.
+- Optimize reporting for strategic decision-making.
 
-Key Features
+## Tools Used
+- **Excel** (Pivot Tables, Pivot Charts, Conditional Formatting)
+- **Power Query Editor** (Data Cleaning & Transformation)
+- **Power Pivot** (Data Modeling & Advanced Calculations)
 
-Interactive slicers for month, day, and time-based analysis.
-Visualizations of total sales, order volume, and top products.
-Category-level insights and trend analysis.
+## Key Insights
+- Identified high-performing menu items and revenue trends.
+- Provided a clear view of customer purchasing behavior.
+- Improved reporting efficiency for data-driven decisions.
+- Enhanced operational planning by analyzing peak hours and demand fluctuations.
 
-Tools Used
+## Project Impact
+This analysis helps McDonald's improve menu optimization, marketing strategies, and sales forecasting, ultimately driving better business decisions.
 
-Excel Power Query: Data cleaning and transformation.
-Excel Pivot Tables/Charts: Data summarization and visualization.
-
-Acknowledgments
-
-Thanks to WsCube Tech for guidance and project support!
-
-Feel free to explore, fork, or suggest improvements! 😊
